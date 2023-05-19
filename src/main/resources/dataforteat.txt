@@ -1,0 +1,72 @@
+ExNrnZNQDs,Toyota,2019,Prius c,Hatchback
+YBKmhGSCV6,Toyota,2019,Tundra Double Cab,Pickup
+sN7vn88WKl,Toyota,2019,Tacoma Access Cab,Pickup
+x9ekz5gQsH,Toyota,2019,Prius Prime,Hatchback
+9WjoZVwfFq,Toyota,2019,Tacoma Double Cab,Pickup
+m7AwpjhiaF,Toyota,2019,Sienna,Van/Minivan
+5kvP2xK8Zc,Volkswagen,2019,Golf SportWagen,Wagon
+Db6o9U8okD,Volkswagen,2019,Arteon,Sedan
+avOzuU86Jj,Volkswagen,2019,Jetta,Sedan
+034oz07gym,Volkswagen,2019,Passat,Sedan
+ke58pHKolD,Volkswagen,2019,e-Golf,Hatchback
+YQn0OjR3Vp,Volkswagen,2019,Golf,Hatchback
+6ChyG6YM2k,Volkswagen,2019,Golf GTI,Hatchback
+CYrYkmY6sr,Volkswagen,2019,Jetta GLI,Sedan
+FvhWSFBPSW,Volkswagen,2019,Beetle,"Convertible, Coupe, Hatchback"
+8FK5i4ePZE,Volkswagen,2019,Golf Alltrack,Wagon
+oj5i9vdux2,Volvo,2019,S60,Sedan
+zklkaxQKUZ,Volkswagen,2019,Golf R,Hatchback
+sNvgoWPkFR,Volvo,2019,V60,Wagon
+sm6PndVB2o,Volvo,2019,V90,Wagon
+HCcRgrdeZe,Volvo,2019,S90,Sedan
+TPPFTAECEX,Volvo,2019,XC90,SUV2020
+FXcHFwaHzo,Volkswagen,2019,Tiguan,SUV
+hqczihz66a,Volvo,2019,XC60,SUV
+Kb9b2493oy,Volvo,2019,XC40,SUV
+viau0hB7Ia,Acura,2018,ILX,Sedan
+GKX8PHDvBx,Alfa Romeo,2018,4C Spider,Convertible
+JJoNEtHXQ4,Acura,2018,RLX,Sedan
+3Fep0ntHSg,Acura,2018,TLX,Sedan
+rwdOGxYYPw,Aston Martin,2018,Vanquish S,"Convertible, Coupe"
+shtDFvCuiL,Acura,2018,MDX,SUV
+wgASSTTaW3,Audi,2018,Q3,SUV
+nOwbBojNYK,Audi,2018,A3,"Sedan, Convertible"
+8D84lJZhZV,Acura,2018,RLX Sport Hybrid,Sedan
+eSrBpgc1NL,Alfa Romeo,2018,Giulia,Sedan
+s7EVRxkGTP,Alfa Romeo,2018,4C,Coupe
+Y2HL8TewJ9,Aston Martin,2018,DB11,Coupe
+6Uiz6dMgqS,Acura,2018,RDX,SUV
+5w6TZeReGG,Acura,2018,MDX Sport Hybrid,SUV
+441nZueeVx,Audi,2018,A7,Sedan
+jiBex5KVlh,Audi,2018,A4 allroad,Wagon
+w9BmUI3wPC,Audi,2018,A4,Sedan
+ne1W06dL3N,Acura,2018,NSX,Coupe
+DGqqE0kSiF,Alfa Romeo,2018,Stelvio,SUV
+w7Qncq7J7n,Audi,2018,Q5,SUV
+yxjMgpPVad,Audi,2018,A3 Sportback e-tron,Wagon
+fmwuVnxBPP,Audi,2018,A5,"Coupe, Convertible, Sedan"
+66ku02fxQg,Audi,2018,A6,Sedan
+8FqD6NCKpe,Audi,2018,R8,"Coupe, Convertible"
+q9XVay5Bi9,Audi,2018,A8,Sedan
+TKGuD9jstt,Audi,2018,Q7,SUV
+vx4w74rTdN,Audi,2018,RS 3,Sedan
+cnpdvzbdDU,Audi,2018,S4,Sedan
+WiLT2nSA4G,Audi,2018,SQ5,SUV
+tRbg6DYlay,Audi,2018,S3,Sedan
+z61GF2cEzY,Audi,2018,S7,Sedan
+9z1mZy20m0,Audi,2018,S6,Sedan
+0sEUfGvYoW,Audi,2018,S8,Sedan
+KKkMJW7Zvl,Audi,2018,RS 7,Sedan
+HKAzghyQuH,Audi,2018,RS 5,Coupe
+LK74snt95U,Audi,2018,TT,"Coupe, Convertible"
+zHcKYFiwyp,Audi,2018,S5,"Sedan, Coupe, Convertible"
+GES6H2ShQl,Bentley,2018,Bentayga,SUV
+mM4B5heV67,BMW,2018,4 Series,"Coupe, Sedan, Convertible"
+5AFW5iBv2Q,BMW,2018,M5,Sedan
+NugsOI2rZM,BMW,2018,2 Series,"Coupe, Convertible"
+csCuxWTFKK,BMW,2018,M4,"Convertible, Coupe"
+IoJn5ML0JF,BMW,2018,X3,SUV
+SLYFpQdCVH,BMW,2018,7 Series,Sedan
+r8pTsPLrBZ,BMW,2018,6 Series,"Sedan, Convertible"
+ey8tV6HOnP,Bentley,2018,Flying Spur,Sedan
+WHCTL8PKc2,BMW,2018,M3,Sedan

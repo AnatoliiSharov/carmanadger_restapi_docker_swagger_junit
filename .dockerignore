@@ -1,0 +1,10 @@
+logs/
+log.*
+bin/
+target/
+!target/*.jar
+workspace/
+*.md
+.git
+.cache
+Dockerfile

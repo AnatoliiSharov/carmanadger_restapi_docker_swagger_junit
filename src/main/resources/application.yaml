@@ -1,0 +1,46 @@
+
+spring:
+    datasource:
+        driver-class-name: org.postgresql.Driver
+        url: ${SPRING_DATASOURCE_URL:jdbc:postgresql://localhost:5432/cardata}
+        username: ${SPRING_DATASOURCE_USERNAME:postgres}
+        password: ${SPRING_DATASOURCE_PASSWORD:1234}
+
+    main:
+     allow-bean-definition-overriding: true
+            
+    flyway:
+        schema: schema
+        baselineOnMigrate: true
+        validateOnMigrate: false
+
+    mvc:
+        hiddenmethod:
+            filter:
+                enabled: true
+
+    jpa:
+        database-platform: org.hibernate.dialect.PostgreSQLDialect
+        generate-ddl: true
+        show-sql: true
+        hibernate:
+            ddl-auto: ${SPRING_JPA_HIBERNATE_DDL_AUTO:none}
+        properties:
+            hibernate:
+                temp:
+                    use_jdbc_metadata_defaults: false
+    security:
+        oauth2:
+            resourceserver:
+                jwt:
+                    issuer-uri: https://${auth0.domain}/
+
+auth0:
+  audience: car-rest-service
+  domain: dev-rnt3kzytexsd7172.us.auth0.com
+
+logging:
+  level:
+    org:
+      springframework:
+        security: DEBUG
